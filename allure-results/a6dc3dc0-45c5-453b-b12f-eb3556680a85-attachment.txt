@@ -1,0 +1,10 @@
+
+🟢 Original Doc:
+Name: 333
+Style Name: 333
+Customer: P&G
+
+🟣 Duplicate Doc:
+Name: 333-DUP
+Style Name: 333-DUP
+Customer: C&A
